@@ -13090,7 +13090,7 @@ function showAlert(message, duration = 1000) {
     }, duration)
     
 }
-//CHANGE THIS: arrow functions scary ugly and confusing
+//CHANGE THIS: need to brush up on arrow functions
 function shakeTiles(tiles) {
     tiles.forEach(tile => {
         tile.classList.add("shake")
